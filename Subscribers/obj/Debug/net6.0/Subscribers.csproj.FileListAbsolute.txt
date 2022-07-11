@@ -1,0 +1,12 @@
+E:\Doc\pub_sub_pattern\Subscribers\bin\Debug\net6.0\Subscribers.deps.json
+E:\Doc\pub_sub_pattern\Subscribers\bin\Debug\net6.0\Subscribers.dll
+E:\Doc\pub_sub_pattern\Subscribers\bin\Debug\net6.0\Subscribers.pdb
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\Subscribers.csproj.AssemblyReference.cache
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\Subscribers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\Subscribers.AssemblyInfoInputs.cache
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\Subscribers.AssemblyInfo.cs
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\Subscribers.csproj.CoreCompileInputs.cache
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\Subscribers.dll
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\refint\Subscribers.dll
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\Subscribers.pdb
+E:\Doc\pub_sub_pattern\Subscribers\obj\Debug\net6.0\ref\Subscribers.dll
